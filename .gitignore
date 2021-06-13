@@ -1,0 +1,8 @@
+.DS_Store
+Procfile
+media/
+db.sqlite3
+
+*/migrations/
+
+.env
